@@ -9,7 +9,6 @@ angular.module('angularJSAppApp', [
 	'todoTags', 
 	'utill', 
 	'myitems',
-	'myvalidate',
 	'myconst'
 	])
 	.config(function ($routeProvider) {
